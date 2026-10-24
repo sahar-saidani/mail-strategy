@@ -1,0 +1,21 @@
+# Secrets & auth
+credentials.json
+token.json
+
+# Personal / sensitive data
+sent_emails.csv
+wave*_contacts.csv
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+*.txt
